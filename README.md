@@ -5,6 +5,8 @@
 
 > 🌐 **Live Web Application**: [bstappwbpsicamygt9672um.streamlit.app](https://bstappwbpsicamygt9672um.streamlit.app/)
 
+![Diabetes Prediction Web App Interface](assets/demo.png)
+
 An end-to-end interactive Machine Learning diagnostic tool built with **Streamlit** and **Scikit-Learn** that predicts diabetes risk (High Risk vs. Low Risk/Negative) based on 8 clinical health metrics.
 
 ---
