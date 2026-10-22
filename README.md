@@ -1,7 +1,9 @@
 # 🩺 Diabetes Diagnostic Prediction Web App
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bstappwbpsicamygt9672um.streamlit.app/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/sounakthakur9045-creator/diabetes-prediction-app)
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+
+> 🌐 **Live Web Application**: [bstappwbpsicamygt9672um.streamlit.app](https://bstappwbpsicamygt9672um.streamlit.app/)
 
 An end-to-end interactive Machine Learning diagnostic tool built with **Streamlit** and **Scikit-Learn** that predicts diabetes risk (High Risk vs. Low Risk/Negative) based on 8 clinical health metrics.
 
